@@ -17,24 +17,20 @@ Actualmente está mantenida por [Antimundo](antimundo.es), intentando mantener l
 
 # La lista
 
-### ✨ En el fediverso con Twitter/X eliminado
-Ha creado una cuenta en el Fediverso, y ha eliminado su cuenta de Twitter/X
+- ✨ = Ha creado una cuenta en el Fediverso, y ha eliminado su cuenta de Twitter/X
+- ⭐️ = Ha creado una cuenta en el Fediverso, y ha abandonado oficialmente su cuenta de Twitter/X
+- 🔒 = Ha creado una cuenta en el Fediverso, pero sigue usando Twitter/X
 
-- [jugandoenlinux.com](https://jugandoenlinux.com/), [@jugandoenlinux@mastodon.social](https://mastodon.social/@jugandoenlinux), comunidad de aficionados a los videojuegos y Linux, Fuente: [Su cuenta de Mastodon](https://mastodon.social/@jugandoenlinux) está verificada y [su web](https://jugandoenlinux.com/) tiene un enlace a su página de Mastodon.
+| 📜 | Nombre | Cuenta | Descripción | Fuente |
+|-|-|-|-|-|
+| ✨ | [jugandoenlinux.com](https://jugandoenlinux.com/) | [@jugandoenlinux @mastodon.social](https://mastodon.social/@jugandoenlinux) | Comunidad de aficionados a los videojuegos y Linux | [Su cuenta de Mastodon](https://mastodon.social/@jugandoenlinux) está verificada y [su web](https://jugandoenlinux.com/) tiene un enlace a su página de Mastodon
+| ⭐️ | [Climática](https://climatica.coop/) | [@climatica_coop @mastodon.social](https://mastodon.social/@climatica_coop) | Medio periodístico especializado en clima y biodiversidad | [Hicieron un comunicado en su web el 9/1/2025](https://climatica.coop/climatica-deja-de-publicar-en-facebook-e-instagram/)|
+| ⭐️ | [La Marea](https://www.lamarea.com/) | [@lamarea @mastodon.social](https://mastodon.social/@lamarea) | Medio periodístico editado por una cooperativa | [Hicieron un comunicado en su web el 9/1/2025](https://www.lamarea.com/2025/01/09/la-marea-deja-de-publicar-en-facebook-e-instagram/)
+| 🔒 | [desdelamina.net](https://desdelamina.net/) | [@desdelamina @xarxa.cloud](https://xarxa.cloud/@desdelamina) | Portal de noticias comunitario del barrio de La Mina | Fuente: [Su cuenta de Mastodon](https://xarxa.cloud/@desdelamina) está verificada y [su web](https://desdelamina.net/) tienen una metaetiqueta que enlaza a su cuenta.
+| 🔒 | [elDiario.es](https://www.elsaltodiario.com/) | [@ElSaltoDiario @mastodon.social](https://mastodon.social/@ElSaltoDiario) | Medio periodístico digital | [Su cuenta de Mastodon](https://mastodon.social/@ElSaltoDiario) está verificada y en [su web](https://www.eldiario.es/) tienen un enlace a su cuenta.
+| 🔒 | [El Salto Diario](https://www.elsaltodiario.com/) | [@ElSaltoDiario @mastodon.social](https://mastodon.social/@ElSaltoDiario) | Medio periodístico autogestionado | En [su web](https://www.elsaltodiario.com/) tienen un enlace a su cuenta de Mastodon.
+| 🔒 | [The conversation España](https://theconversation.com/es) | [@theconversationes @newsie.social](https://newsie.social/@theconversationes) | Medio periodístico de divulgación científica y académica sin ánimo de lucro | [Su cuenta de Mastodon](https://newsie.social/@theconversationes) está verificada y [su web](https://desdelamina.net/) tiene un enlace a su página de Mastodon.
 
-### ⭐️ En el fediverso con Twitter/X abandonado
-Ha creado una cuenta en el Fediverso, y ha abandonado oficialmente su cuenta de Twitter/X
-
-- [Climática](https://climatica.coop/), [@climatica_coop@mastodon.social](https://mastodon.social/@climatica_coop), Medio periodístico especializado en clima y biodiversidad, Fuente: [Hicieron un comunicado en su web el 9/1/2025](https://climatica.coop/climatica-deja-de-publicar-en-facebook-e-instagram/).
-- [La Marea](https://www.lamarea.com/), [@lamarea@mastodon.social](https://mastodon.social/@lamarea), Medio periodístico editado por una cooperativa, Fuente: [Hicieron un comunicado en su web el 9/1/2025](https://www.lamarea.com/2025/01/09/la-marea-deja-de-publicar-en-facebook-e-instagram/).
-
-### 🔒 En el fediverso con Twitter/X en activo
-Ha creado una cuenta en el Fediverso, pero sigue usando Twitter/X
-
-- [desdelamina.net](https://desdelamina.net/), [@desdelamina@xarxa.cloud](https://xarxa.cloud/@desdelamina), Portal de noticias comunitario del barrio de La Mina, Fuente: [Su cuenta de Mastodon](https://xarxa.cloud/@desdelamina) está verificada y [su web](https://desdelamina.net/) tienen una metaetiqueta que enlaza a su cuenta.
-- [elDiario.es](https://www.elsaltodiario.com/), [@ElSaltoDiario@mastodon.social](https://mastodon.social/@ElSaltoDiario), Medio periodístico digital, Fuente: [Su cuenta de Mastodon](https://mastodon.social/@ElSaltoDiario) está verificada y en [su web](https://www.eldiario.es/) tienen un enlace a su cuenta.
-- [El Salto Diario](https://www.elsaltodiario.com/), [@ElSaltoDiario@mastodon.social](https://mastodon.social/@ElSaltoDiario), Medio periodístico autogestionado, Fuente: En [su web](https://www.elsaltodiario.com/) tienen un enlace a su cuenta de Mastodon.
-- [The conversation España](https://theconversation.com/es), [@theconversationes@newsie.social](https://newsie.social/@theconversationes), Medio periodístico de divulgación científica y académica sin ánimo de lucro, Fuente: [Su cuenta de Mastodon](https://newsie.social/@theconversationes) está verificada y [su web](https://desdelamina.net/) tiene un enlace a su página de Mastodon.
 
 
 [![Creative Commons 0](https://upload.wikimedia.org/wikipedia/commons/4/43/CC_Zero_badge.svg)](https://creativecommons.org/publicdomain/zero/1.0/deed)
