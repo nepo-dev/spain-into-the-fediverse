@@ -30,7 +30,7 @@ Actualmente está mantenida por [Antimundo](antimundo.es), intentando mantener l
 | 🔒 | [elDiario.es](https://www.eldiario.es/) | [@eldiarioes @mastodon.world](https://mastodon.world/@eldiarioes) | Medio periodístico digital | [Su cuenta de Mastodon](https://mastodon.world/@eldiarioes) está verificada y en [su web](https://www.eldiario.es/) tienen un enlace a su cuenta.
 | 🔒 | [El Salto Diario](https://www.elsaltodiario.com/) | [@ElSaltoDiario @mastodon.social](https://mastodon.social/@ElSaltoDiario) | Medio periodístico autogestionado | En [su web](https://www.elsaltodiario.com/) tienen un enlace a su cuenta de Mastodon.
 | 🔒 | [The conversation España](https://theconversation.com/es) | [@theconversationes @newsie.social](https://newsie.social/@theconversationes) | Medio periodístico de divulgación científica y académica sin ánimo de lucro | [Su cuenta de Mastodon](https://newsie.social/@theconversationes) está verificada y [su web](https://desdelamina.net/) tiene un enlace a su página de Mastodon.
-
+| 🔒 | [Pantube TV](https://pantube.tv/) | [@pantube @mas.to](https://mas.to/@pantube) | Colectivo independiente de apoyo, difusión y ayuda mutua | [Su web](https://pantube.tv/linktree/) tiene un enlace a su página de Mastodon.
 
 
 [![Creative Commons 0](https://upload.wikimedia.org/wikipedia/commons/4/43/CC_Zero_badge.svg)](https://creativecommons.org/publicdomain/zero/1.0/deed)
