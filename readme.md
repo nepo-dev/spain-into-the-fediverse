@@ -11,6 +11,7 @@ Actualmente está mantenida por [Antimundo](antimundo.es), intentando mantener l
 - Este listado será exigente:
     - Todos los elementos de esta lista contarán con una fuente para verificar que esa cuenta en el Fediverso es oficial. _(No se aceptarán como referencia noticias que estén bajo un muro de pago, o enlaces al propio Twitter/X, debe ser una referencia que cualquiera pueda verificar)_.
     - No contará colectivos que estén en un estado dudoso, como por ejemplo El País, que [tienen una cuenta en Mastdoon](https://mastodon.social/@el_pais) pero en su web no aparece que esa sea su cuenta oficial, ni han hecho ningún comunicado oficial al respecto, ni han verificado su cuenta de Mastodon, y además no la usan desde noviembre de 2024.
+    - Para no inflar la lista demasiado, solo se admitirán cuentas que tengan al menos 100 seguidores, y las cuentas que lleven un año inactivas serán eliminadas.
 
 > Nota:
 > Este listado nace como un simple experimento informal, para intentar ver el impacto del Fediverso en España. Estoy abierto a sugerencias de cómo mejorar la lista, y a expandirla, pero prefiero que sea sencilla para que cualquiera pueda consultarla y aportar en ella.
