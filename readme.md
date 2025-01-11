@@ -23,7 +23,7 @@ Actualmente está mantenida por [Antimundo](antimundo.es), intentando mantener l
 
 | 📜 | Nombre | Cuenta | Descripción | Fuente |
 |-|-|-|-|-|
-| ✨ | [Jugandoe En Linux.com](https://jugandoenlinux.com/) | [@jugandoenlinux @mastodon.social](https://mastodon.social/@jugandoenlinux) | Comunidad de aficionados a los videojuegos y Linux | [Mastodon verificado](https://mastodon.social/@jugandoenlinux) y [web con enlace a su Mastodon](https://jugandoenlinux.com/) |
+| ✨ | [Jugando En Linux](https://jugandoenlinux.com/) | [@jugandoenlinux @mastodon.social](https://mastodon.social/@jugandoenlinux) | Comunidad de aficionados a los videojuegos y Linux | [Mastodon verificado](https://mastodon.social/@jugandoenlinux) y [web con enlace a su Mastodon](https://jugandoenlinux.com/) |
 | ⭐️ | [Climática](https://climatica.coop/) | [@climatica_coop @mastodon.social](https://mastodon.social/@climatica_coop) | Medio periodístico especializado en clima y biodiversidad | [Comunicado en su web el 9/1/2025](https://climatica.coop/climatica-deja-de-publicar-en-facebook-e-instagram/) |
 | ⭐️ | [La Marea](https://www.lamarea.com/) | [@lamarea @mastodon.social](https://mastodon.social/@lamarea) | Medio periodístico editado por una cooperativa | [Comunicado en su web el 9/1/2025](https://www.lamarea.com/2025/01/09/la-marea-deja-de-publicar-en-facebook-e-instagram/) |
 | 🔒 | [Cuéntica](https://cuentica.com) | [@cuentica @masto.es](https://masto.es/@cuentica) | Empresa de software de gestión para autónomos y empresas | [Mastodon verificado](https://masto.es/@cuentica) y [web con enlace a su Mastodon](https://cuentica.com/) |
