@@ -2,6 +2,7 @@
 
 import csv
 
+INDEX_TEMPLATE = 'build/index.html'
 TABLE = 'table.csv'
 ACCOUNTS='accounts.csv'
 REFERENCES = 'references.csv'
@@ -19,7 +20,7 @@ def generate_table():
 		for row in rows:
 			table += generate_table_row(row)
 	table += "</table>"
-	print(table)
+	return table
 
 def generate_table_row(data):
 	row = "<tr>"
@@ -62,7 +63,9 @@ def generate_account_list_for(current_name):
 	return ref_list
 
 def main():
-	generate_table()
-	
+	with open(INDEX_TEMPLATE) as file:
+		index = file.read()
+		index = index.replace("${TABLE}", generate_table())
+		print(index)
 
 main()
