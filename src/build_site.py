@@ -2,7 +2,7 @@
 
 import csv
 
-INDEX_TEMPLATE = 'build/index.html'
+INDEX_TEMPLATE = 'src/index_template.html'
 TABLE = 'table.csv'
 ACCOUNTS='accounts.csv'
 REFERENCES = 'references.csv'
