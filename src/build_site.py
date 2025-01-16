@@ -58,7 +58,7 @@ def generate_account_list_for(current_name):
 			name,username,server = list(row.values())
 			if name == current_name:
 				link = get_user_profile_link_from_username(username)
-				ref_list += '<li class="account"><a href="%s"><img src="./images/%s.svg" height="20">%s</li>' % (link, server, username)
+				ref_list += '<li class="account"><a href="%s"><img src="./images/%s.svg" height="20"><p>%s</p></li>' % (link, server, username)
 	ref_list += "</ul>"
 	return ref_list
 
